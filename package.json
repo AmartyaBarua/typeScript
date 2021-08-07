@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "./node_modules/typescript/bin/tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
